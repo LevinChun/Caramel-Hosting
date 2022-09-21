@@ -1,6 +1,6 @@
  {
     "bot": {
-        "prefix": "b,",
+        "prefix": "h!",
         "id": "XX",   
         "secret": "XX",
         "token": "XX"
